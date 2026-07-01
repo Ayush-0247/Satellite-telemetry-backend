@@ -17,7 +17,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173", // Local development
-      "https://satellite-telemetry-frontend.vercel.app", // Production frontend
+      "https://https://satellite-telemetry-frontend-qr67.vercel.app/", // Production frontend
     ],
     credentials: true,
   })
